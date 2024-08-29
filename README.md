@@ -19,7 +19,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m working as <br>- 📚 I'm currently learning  Web Development<br>-👨‍💻 All of my projects are available at [under work](under work)<br>-📫 How to reach me suyashjaindamoh@gmail.com<br>- ⚡ In my free time I write blogs</p>
+<p align="left">- 📚 I'm currently learning  Web Development<br>-👨‍💻 All of my projects are available at [under work](under work)<br>-📫 How to reach me suyashjaindamoh@gmail.com<br>- ⚡ In my free time I write blogs</p>
 
 ###
 
