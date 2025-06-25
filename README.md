@@ -57,14 +57,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Suyashjain099&show_icons=true&theme=dracula&hide_border=false&count_private=true" height="160" />
 </div>
 
----
-
-### 🟩 GitHub Contribution Calendar
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/green/suyashjain099" alt="suyashjain099's GitHub chart" />
-</p>
-
 
 ---
 
