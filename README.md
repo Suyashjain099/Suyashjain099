@@ -62,7 +62,8 @@
 ### 🔥 GitHub Streak
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Suyashjain099&theme=dark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" height="220" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suyashjain099&theme=dark&hide_border=false" />
+
 </div>
 
 ---
