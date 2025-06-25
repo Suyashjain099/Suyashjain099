@@ -59,15 +59,12 @@
 
 ---
 
-### 🚀 GitHub Activity Summary
+### 🟩 GitHub Contribution Calendar
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Commits-1000%2B-blue?style=flat-square&logo=github" />
-  <img src="https://img.shields.io/badge/Repositories-20+-brightgreen?style=flat-square&logo=github" />
-  <img src="https://img.shields.io/badge/Pull%20Requests-30%2B-blueviolet?style=flat-square&logo=github" />
-  <img src="https://img.shields.io/badge/Issues-25%2B-orange?style=flat-square&logo=github" />
-  <img src="https://img.shields.io/badge/Stars-50%2B-yellow?style=flat-square&logo=github" />
+  <img src="https://ghchart.rshah.org/green/Suyashjain099" alt="GitHub Contribution Chart" />
 </p>
+
 
 
 ---
