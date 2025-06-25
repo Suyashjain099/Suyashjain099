@@ -1,69 +1,83 @@
-<h1 align="center">hey there 👋 I am Suyash Jain</h1>
+<h1 align="center">Hi there 👋, I'm Suyash Jain</h1>
+<h3 align="center">A Passionate Web Developer | Lifelong Learner | Tech Explorer</h3>
 
-###
-
-<div align="center">
+<p align="center">
   <a href="https://www.linkedin.com/in/suyash-jain-261435284/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="40" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-</div>
+  <a href="mailto:suyashjaindamoh@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
-###
+---
 
-<h3 align="left">👩‍💻  About Me</h3>
+### 👨‍💻 About Me
 
-###
+- 🌱 Currently diving deep into **Web Development**  
+- 💡 Exploring new tech, frameworks & tools every day  
+- 🛠️ Building real-world projects and strengthening fundamentals  
+- 📬 Reach me at: **suyashjaindamoh@gmail.com**  
+- 📝 In my free time, I enjoy writing blogs and documenting what I learn  
 
-<div align="center">
-</div>
+---
 
-###
-
-<p align="left">- 📚 I'm currently learning  Web Development<br>-👨‍💻 All of my projects are available at [under work](under work)<br>-📫 How to reach me suyashjaindamoh@gmail.com<br>- ⚡ In my free time I write blogs</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
-</div>
-
-###
-
-<div align="left">
-</div>
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Suyashjain099&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Suyashjain099&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
+### 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Suyashjain099&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <!-- Frontend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="TailwindCSS" />
+  <img width="12" />
+
+  <!-- Backend & DB -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
+  <img width="12" />
+
+  <!-- Languages -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="Go" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
 </div>
 
-###
+---
 
-<div align="left">
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Suyashjain099&show_icons=true&theme=dracula&hide_border=false&count_private=true" height="160" />
 </div>
 
-###
+---
+
+### 🔥 GitHub Streak
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Suyashjain099&theme=dark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" height="220" />
+</div>
+
+---
+
+### 📫 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/suyash-jain-261435284/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:suyashjaindamoh@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" alt="Gmail" />
+  </a>
+</p>
+
+---
+
+> 🚀 Always open to opportunities and collaboration. Let’s connect and build something amazing!
