@@ -5,8 +5,8 @@
   <a href="https://www.linkedin.com/in/suyash-jain-261435284/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:suyashjaindamoh@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:suyashjaindamoh@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-suyashjaindamoh%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
   </a>
 </p>
 
@@ -81,7 +81,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="mailto:suyashjaindamoh@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-suyashjaindamoh%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
   </a>
 </p>
 
