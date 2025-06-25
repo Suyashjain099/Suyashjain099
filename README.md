@@ -62,9 +62,8 @@
 ### 🟩 GitHub Contribution Calendar
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/green/Suyashjain099" alt="GitHub Contribution Chart" />
+  <img src="https://ghchart.rshah.org/green/suyashjain099" alt="suyashjain099's GitHub chart" />
 </p>
-
 
 
 ---
