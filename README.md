@@ -5,8 +5,8 @@
   <a href="https://www.linkedin.com/in/suyash-jain-261435284/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:suyashjaindamoh@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-suyashjaindamoh%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
+  <a href="mailto:suyashjaindamoh@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
@@ -59,16 +59,10 @@
 
 ---
 
----
-
-### 🚀 GitHub Activity Summary
+### 📊 My GitHub Metrics
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Commits-1000%2B-blue?style=flat-square&logo=github" />
-  <img src="https://img.shields.io/badge/Repositories-20+-brightgreen?style=flat-square&logo=github" />
-  <img src="https://img.shields.io/badge/Pull%20Requests-30%2B-blueviolet?style=flat-square&logo=github" />
-  <img src="https://img.shields.io/badge/Issues-25%2B-orange?style=flat-square&logo=github" />
-  <img src="https://img.shields.io/badge/Stars-50%2B-yellow?style=flat-square&logo=github" />
+  <img src="https://github-readme-metrics.vercel.app/api?username=Suyashjain099&show=contribs,prs,issues,stars&theme=dark" alt="GitHub Metrics" />
 </p>
 
 
@@ -81,7 +75,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="mailto:suyashjaindamoh@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-suyashjaindamoh%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" alt="Gmail" />
   </a>
 </p>
 
