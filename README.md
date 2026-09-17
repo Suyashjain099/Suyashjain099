@@ -19,12 +19,40 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 **Undergraduate Student** studying Engineering and Computational Mechanics at MNNIT Allahabad.
+- 🎓 **Undergraduate Student** studying Engineering and Computational Mechanics at MNNIT Allahabad (CPI: 9.12).
 - 🏆 **Competitive Programmer** focusing on algorithmic problem-solving, dynamic programming, and graph theory in **C++**.
-- 🧠 **Machine Learning Explorer** developing time-series forecasting models and computer vision pipelines using **PyTorch** and **OpenCV**.
-- 🌐 **Web & Systems Developer** building full-stack applications and exploring cloud infrastructure, Docker, and microservices architecture.
-- ⚙️ **Engineering Enthusiast** with experience in CFD simulations, 3D modeling, and computer-aided engineering.
+- 🧠 **Machine Learning Explorer** developing time-series forecasting models and computer vision pipelines.
+- 🌐 **Web & Systems Developer** building full-stack applications, APIs, and exploring microservices architecture.
 - 📬 **Reach me at:** [suyashjaindamoh@gmail.com](mailto:suyashjaindamoh@gmail.com)
+
+---
+
+### 🚀 Featured Projects
+
+*   📈 **TradePulse:** A stock market prediction and analysis tool built with Python, utilizing LSTM networks, Random Forest ensembles, and Prophet, featuring interactive candlestick visualizations.
+*   📐 **Navix:** Parametric 3D modeling and Finite Element Method (FEM) stress analysis software developed from scratch using C++ and OpenGL.
+*   ☀️ **Solar Power Forecasting:** Time-series prediction models utilizing PyTorch and Temporal Fusion Transformers, achieving an R2 score of 0.9884 and MAE of 4.69.
+*   ☁️ **Devbox:** Cloud developer workspace tools and backend API services.
+*   🔍 **Computer Vision Utilities:** Interactive image masking, erosion, dilation, and convex hull algorithms in Python/OpenCV for region-of-interest analysis.
+
+---
+
+### 💼 Experience & Leadership
+
+*   **Summer Trainee | DRDO (IRDE)**
+    Conducted Conjugate Heat Transfer and Computational Fluid Dynamics (CFD) simulations on recessed sapphire windows using ANSYS Fluent and k-omega SST turbulence modeling.
+*   **Web Developer | Applied Mechanics Society, MNNIT**
+    Developed, deployed, and maintained the society's web infrastructure using Vercel.
+*   **Departmental Representative & Technical Convenor** 
+    Serving in student leadership and mentorship roles for the batch at MNNIT Allahabad.
+
+---
+
+### 🏆 Achievements
+
+*   **3rd Place** - Triathlon Software (Avishkar Technical Fest, 2025)
+*   **Top 3** - Hackify Leaderboard (Avishkar Technical Fest, 2025)
+*   **Finalist** - InnoDev (Avishkar Technical Fest, 2025)
 
 ---
 
@@ -42,18 +70,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="Go" title="Go" />
   <br><br>
 
-  **Frontend & Web**<br>
+  **Frontend, Backend & Cloud**<br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" title="React" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="TailwindCSS" title="Tailwind CSS" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" title="HTML5" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" title="CSS3" />
-  <br><br>
-
-  **Backend, Cloud & Databases**<br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express" title="Express.js" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" title="Node.js" />
   <img width="12" />
@@ -78,12 +98,12 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Suyashjain099&show_icons=true&theme=dracula&hide_border=true&count_private=true&bg_color=0D1117&text_color=FFFFFF&icon_color=06B6D4&title_color=06B6D4" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Suyashjain099&theme=dracula&hide_border=true&background=0D1117&ring=06B6D4&fire=06B6D4&currStreakNum=FFFFFF" height="165" alt="GitHub Streak" />
-</div>
-<br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suyashjain099&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=06B6D4" alt="Top Languages" />
+  <!-- Switched to standard markdown formatting for better rendering stability -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Suyashjain099&show_icons=true&theme=dracula&hide_border=true&count_private=true&bg_color=0D1117&text_color=FFFFFF&icon_color=06B6D4&title_color=06B6D4" alt="Suyash's GitHub Stats" />
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Suyashjain099&theme=dracula&hide_border=true&background=0D1117&ring=06B6D4&fire=06B6D4&currStreakNum=FFFFFF" alt="Suyash's GitHub Streak" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suyashjain099&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=06B6D4" alt="Suyash's Top Languages" />
 </div>
 
 ---
