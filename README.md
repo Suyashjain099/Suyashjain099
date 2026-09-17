@@ -90,11 +90,11 @@
 
 ---
 
-### 📊 GitHub Activity
+### 📊 GitHub Stats
 
 <div align="center">
   <a href="https://github.com/Suyashjain099">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Suyashjain099&bg_color=0D1117&color=06B6D4&line=06B6D4&point=FFFFFF&hide_border=true&title_color=FFFFFF" alt="Suyash's GitHub Activity Graph" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Suyashjain099&theme=dracula&hide_border=true&hide_rank=true&hide=stars,issues,prs&bg_color=0D1117&text_color=FFFFFF&title_color=06B6D4&icon_color=06B6D4" alt="Suyash's Total Contributions" />
   </a>
 </div>
 
