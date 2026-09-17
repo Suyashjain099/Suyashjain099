@@ -90,14 +90,4 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/Suyashjain099">
-    <img src="https://github-readme-stats.vercel.app/api?username=Suyashjain099&theme=dracula&hide_border=true&hide_rank=true&hide=stars,issues,prs&bg_color=0D1117&text_color=FFFFFF&title_color=06B6D4&icon_color=06B6D4" alt="Suyash's Total Contributions" />
-  </a>
-</div>
-
----
-
 > 🚀 Always open to software engineering roles, collaborations, and building amazing products. Let’s connect!
